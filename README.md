@@ -1,4 +1,6 @@
-# bigqueryportfolio
-Projects of Google Bigquery.
+Data Analysis Portfolio
+- Excel
+- Google Bigquery
+- Tableau
 
-The content will be continue to be updated.
+*The content will be continue to be updated.
